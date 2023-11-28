@@ -1,3 +1,3 @@
 # Zavrsni rad Mehanicka tipkovnica s arduinom
 
-<img ref="pcb.png">
+<img href="pcb.png">
